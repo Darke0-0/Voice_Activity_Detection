@@ -1,0 +1,9 @@
+Package     Version
+----------- ------------
+cffi        1.15.1
+pip         22.0.4
+pycparser   2.21
+pydub       0.25.1
+setuptools  58.1.0
+sounddevice 0.4.4
+SoundFile   0.10.3.post1
