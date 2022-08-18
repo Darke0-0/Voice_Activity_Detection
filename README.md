@@ -20,4 +20,4 @@ To use this app
 
 ```main.py```
 
-Now record audio and view recordings folder for the chunks.
+Now record audio and view "recording" folder for the chunks.
